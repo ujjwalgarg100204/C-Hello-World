@@ -1,0 +1,6 @@
+# ninja log v5
+201	241	1655375535839650642	HelloWorld	9af0fa521f218124
+0	784	6815560501422383	CMakeFiles/HelloWorld.dir/main.cpp.obj	f863a64ef4af679b
+785	898	6815560502532382	HelloWorld.exe	e114833cc9b6fb16
+4	981	6815596312835419	CMakeFiles/HelloWorld.dir/main.cpp.obj	f863a64ef4af679b
+981	1166	6815596314682725	HelloWorld.exe	e114833cc9b6fb16
