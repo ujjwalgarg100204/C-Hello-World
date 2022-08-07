@@ -21,9 +21,7 @@ available for free for students ([Get Started](https://www.jetbrains.com/communi
 1. Open the project with Clion
 2. Click ▶ on toolbar which looks like this ![toolbar](readme_assets/toolbar.png)
 
-<div style="text-align: center">
-    <img src="readme_assets/demo.gif" alt="animated">
-</div>
+![demo.gif](readme_assets/demo.gif)
 
 ## Contributing
 
